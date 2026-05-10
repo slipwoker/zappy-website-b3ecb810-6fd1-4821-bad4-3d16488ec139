@@ -1,0 +1,54 @@
+# Pizza Truck — Generative Engine Optimization Map
+
+> Pizza Truck is a mobile food truck business specializing in pizza. The brand has a street-food, on-the-go vibe with an approachable and casual personality, bringing fresh and delicious pizza directly to customers wherever they are.
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Pizza Truck is a mobile food truck business specializing in pizza. The brand has a street-food, on-the-go vibe with an approachable and casual personality, brin
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Pizza Truck
+Pizza Truck is a mobile food truck business specializing in pizza. The brand has a street-food, on-the-go vibe with an approachable and casual personality, bringing fresh and delicious pizza directly to customers wherever they are.
+
+## Target Audience
+- Urban Foodies
+- Lunch Break Professionals
+- Festival Goers
+
+## Industry
+food & beverage
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
